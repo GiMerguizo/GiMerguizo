@@ -1,11 +1,11 @@
-# Giovana Merguizo
-Estudante de Engenharia da Computação (3º semestre) e Jovem Aprendiz - DevOps
+# Giovana Merguizo :space_invader:
+Estudante de Engenharia da Computação :computer: (3º semestre) e Jovem Aprendiz - DevOps
 
-## Sobre
+## :pencil: Sobre
 <p> Sou a Giovana, tenho 18 anos e atualmente estou cursando o 3º semestre de Engenharia da Computação na Facens (Sorocaba - SP).
 <p> Além disso, sou Jovem Aprendiz na área de DevOps no Liga (Laboratório de Games e Apps da Facens).
 
-## Experiências
+## :pencil: Experiências
 ### Jovem Aprendiz - DevOps
 - Período: nov/2022 até o momento atual.
 
