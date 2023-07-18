@@ -8,6 +8,7 @@ Estudante de Engenharia da Computação :computer: (3º semestre) e Jovem Aprend
 ## :pencil: Experiências
 ### Jovem Aprendiz - DevOps
 - Período: nov/2022 até o momento atual.
+- Tecnologias: AWS, Terraform, Docker, Grafana, Jenkins, Git, Linux
 
 ### Voluntariado (DevOps)
 - Período: jun/2022 a nov/2022.
