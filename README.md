@@ -1,3 +1,5 @@
+<img align="right" width="250px" style="margin-top:-20px" src="./Midias/my-octocat.png">
+
 <div dsplay="inline-block">
   <h1 align="left"> Giovana Merguizo :space_invader: </h1> 
   <a href="mailto:giovana.pontes5654@hotmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
