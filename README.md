@@ -12,3 +12,6 @@ Estudante de Engenharia da Computação :computer: (3º semestre) e Jovem Aprend
 
 ### Voluntariado (DevOps)
 - Período: jun/2022 a nov/2022.
+
+
+![Snake animation](https://github.com/GiMerguizo/GiMerguizo/blob/output/github-contribution-grid-snake.svg)
