@@ -14,31 +14,30 @@ Tenho 19 anos, sou estudante de Engenharia da Computação 💻 e amo programaç
 Comecei a estudar Python e depois fui explorando outras áreas desse ramo, como DevOps. E hoje continuo buscando conhecimento de várias partes da tecnologia.
 
 ### Experiências
-Atualmente sou Jovem Aprendiz e trabalho na área de DevOps, por isso já trabalhei com algumas ferramentas nesse sentido.
+Atualmente sou Analista de Suporte JR, auxiliando com tarefas de gerenciamento de SO e monitoração. Mas também já trabalhei com recursos de DevOps, ajudando em tarefas de automação e agilidade de tarefas.
 
 #### Tecnologias
 <div>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="60" height="60"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60"/></a>
   <a href="https://www.putty.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="60" height="60"/></a>
   <a href="https://aws.amazon.com/pt/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="60" height="60"/></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" height="60"/></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60" height="60"/></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="60" height="60"/></a>  
+  <a href="https://prometheus.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="60" height="60"/></a>
 </div>
             
           
 ### Outras linguagens e ferramentas
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width="60" height="60"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="60" height="60"/>
 </div>
 
-<!-- ![Snake animation](https://github.com/GiMerguizo/GiMerguizo/blob/output/github-contribution-grid-snake.svg) -->
 ---
 <div>
 <a href="https://github.com/GiMerguizo">
