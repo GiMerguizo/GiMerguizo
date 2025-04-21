@@ -10,11 +10,11 @@
 </div>
 
 ## Salve, Devs!! 
-Tenho 19 anos, sou estudante de Engenharia da Computação 💻 e amo programação!
+Tenho 20 anos, sou estudante de Engenharia da Computação 💻 e amo programação!
 Comecei a estudar Python e depois fui explorando outras áreas desse ramo, como DevOps. E hoje continuo buscando conhecimento de várias partes da tecnologia.
 
 ### Experiências
-Atualmente sou Analista de Suporte JR, auxiliando com tarefas de gerenciamento de SO e monitoração. Mas também já trabalhei com recursos de DevOps, ajudando em tarefas de automação e agilidade de tarefas.
+Tenho experiências como Analista de Suporte JR, auxiliando com tarefas de gerenciamento de SO e monitoração. Mas também já trabalhei com recursos de DevOps, ajudando em tarefas de automação e agilidade de tarefas.
 
 #### Tecnologias
 <div>
@@ -30,17 +30,16 @@ Atualmente sou Analista de Suporte JR, auxiliando com tarefas de gerenciamento d
           
 ### Outras linguagens e ferramentas
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="60" height="60"/>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/></a>
+  <a href="https://trello.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="60" height="60"/></a>
 </div>
 
 ---
 <div>
-<a href="https://github.com/GiMerguizo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiMerguizo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GiMerguizo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/GiMerguizo">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiMerguizo&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GiMerguizo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <picture>
