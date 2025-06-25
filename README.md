@@ -10,7 +10,7 @@
 </div>
 
 ## 👋 Olá, Devs!
-Sou a **Giovana Merguizo**, tenho 20 anos e sou estudante de **Engenharia da Computação**. Minha paixão pela tecnologia começou com a programação em Python e evoluiu para áreas como **infraestrutura de TI e DevOps**.<br>
+Sou a **Giovana Merguizo**, tenho 21 anos e sou estudante de **Engenharia da Computação**. Minha paixão pela tecnologia começou com a programação em Python e evoluiu para áreas como **infraestrutura de TI e DevOps**.<br>
 Hoje, continuo explorando tecnologias como **AWS, Docker, Terraform e monitoramento com Grafana/Prometheus**, sempre buscando aprender mais e contribuir com soluções eficientes.
 
 ### 💼 Experiências
