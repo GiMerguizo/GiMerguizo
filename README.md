@@ -1,4 +1,6 @@
-<h1 align="left"> Giovana Merguizo :space_invader: </h1> 
+<div align="center">
+  <h1 align="left"> Giovana Merguizo :space_invader: </h1> 
+</div>
 
 <img align="right" width="250px" style="margin-top:-20px" src="./Midias/my-octocat.png">
 
@@ -9,7 +11,7 @@
   <a href="https://instagram.com/gi.merguizo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-## 👋 Olá, Devs!
+### 👋 Olá, Devs! 
 Sou a **Giovana Merguizo**, tenho 21 anos e sou estudante de **Engenharia da Computação**. Minha paixão pela tecnologia começou com a programação em Python e evoluiu para áreas como **infraestrutura de TI e DevOps**.<br>
 Hoje, continuo explorando tecnologias como **AWS, Docker, Terraform e monitoramento com Grafana/Prometheus**, sempre buscando aprender mais e contribuir com soluções eficientes.
 
