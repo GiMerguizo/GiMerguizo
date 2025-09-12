@@ -37,6 +37,8 @@ Hoje, continuo explorando tecnologias como **AWS, Docker, Terraform e monitorame
   <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
   <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <img title="Trello" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50"/>
+  <a href="https://www.atlassian.com/br/software/jira" target="_blank"><img width="50" height="50" alt="Jira" src="https://github.com/user-attachments/assets/dcba058b-21d3-47ff-ad51-eb4a3426623c"/></a>
+  <a href="https://www.figma.com/pt-br/" target="_blank"><img width="50" height="50" alt="figma" src="https://github.com/user-attachments/assets/6a36a59e-139b-4f59-84e5-b6ad45f6784d"/></a>
 </div>
 
 ---
