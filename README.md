@@ -11,11 +11,14 @@
   <a href="https://instagram.com/gi.merguizo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GiMerguizo&label=Profile%20views&color=0e75b6&style=flat" alt="GiMerguizo" /> </p>
+
 ### 👋 Olá, Devs! 
 Sou a **Giovana Merguizo**, tenho 21 anos e sou estudante de **Engenharia da Computação**. Minha paixão pela tecnologia começou com a programação em Python e evoluiu para áreas como **infraestrutura de TI e DevOps**.<br>
 Hoje, continuo explorando tecnologias como **AWS, Docker, Terraform e monitoramento com Grafana/Prometheus**, sempre buscando aprender mais e contribuir com soluções eficientes.
 
 ### 💼 Experiências
+- 🔍 **Analista de Monitoramento Jr** – atuação no NOC com monitoramento de ambientes de clientes variados.
 - 👩‍💻 **Analista de Suporte Jr** – atuação com sistemas operacionais Linux, virtualização e monitoramento com Zabbix.
 - ⚙️ **DevOps - Projetos e voluntariado** – auxílio na automação de pipelines com Jenkins/GitLab, uso de ferramentas como Terraform e AWS.
 
@@ -47,6 +50,8 @@ Hoje, continuo explorando tecnologias como **AWS, Docker, Terraform e monitorame
   <img height="180em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiMerguizo&layout=compact&langs_count=7&theme=github_dark"/>
   <img height="180em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GiMerguizo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GiMerguizo&" alt="GiMerguizo" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiMerguizo/GiMerguizo/output/github-contribution-grid-snake-dark.svg">
